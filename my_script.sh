@@ -1,4 +1,4 @@
-#!/bin/bash -xe
+#!/bin/bash -x
 function is_even() {
   local num=$1
 
